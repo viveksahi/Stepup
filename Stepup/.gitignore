@@ -1,0 +1,7 @@
+# Sensitive Information
+Config.swift
+
+# Xcode
+.DS_Store
+xcuserdata/
+DerivedData/       
